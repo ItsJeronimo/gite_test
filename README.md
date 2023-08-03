@@ -1,2 +1,2 @@
-# gite_test
+# git_test
 My fisrt GitHub repo!
